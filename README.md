@@ -1,2 +1,2 @@
-# AnjularJS
-Practicing AJS
+# AnjularJs
+Experiementing and practicing Angular JS
